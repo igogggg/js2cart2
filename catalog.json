@@ -1,42 +1,42 @@
 [
     {
-        "productName": "bigburger",
+        "size": "bigburger",
         "price": 100,
         "kkal": 40,
         "id": 1
     },
     {
-        "productName": "small",
+        "size": "small",
         "price": 50,
         "kkal": 20,
         "id": 1
     },
     {
-        "productName": "cheez",
+        "stuffing": "cheez",
         "price": 10,
         "kkal": 20,
         "id": 1
     },
     {
-        "productName": "salad",
+        "stuffing": "salad",
         "price": 20,
         "kkal": 5,
         "id": 1
     },
     {
-        "productName": "potato",
+        "stuffing": "potato",
         "price": 15,
         "kkal": 10,
         "id": 1
     },
     {
-        "productName": "condiment",
+        "stuffing": "condiment",
         "price": 15,
         "kkal": 0,
         "id": 1
     },
     {
-        "productName": "mayonnaise",
+        "stuffing": "mayonnaise",
         "price": 20,
         "kkal": 5,
         "id": 1
