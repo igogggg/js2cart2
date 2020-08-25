@@ -2,13 +2,13 @@
 
 
     {
-        "size": "Big",
+        "productname": "Big",
         "price": 100,
         "kkal": 40,
         "id": "big"
         },
     {
-        "size": "Small",
+        "productname": "Small",
         "price": 50,
         "kkal": 20,
         "id": "small"
